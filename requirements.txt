@@ -1,0 +1,7 @@
+google-genai
+SpeechRecognition
+PyAudio
+pyttsx3
+Pillow
+pyautogui
+requests
